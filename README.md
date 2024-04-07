@@ -1,2 +1,2 @@
-# Red_neuronal
-Ejemplos de redes neuronales
+# Redes neuronales de clasificación
+
